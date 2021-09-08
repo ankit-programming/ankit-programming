@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ankit
+- 👋 Hi, I’m ankit
 - 👀 I’m interested in learing python ml , and other finance helping language
 - 🌱 I’m currently learning mt5 with python
 - 💞️ I’m looking to collaborate on ...
